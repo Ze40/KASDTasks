@@ -21,7 +21,7 @@ bool IsSimetric(int[][] matrix)
 }
 
 //Метод для вычесления длины вектора через умножении вектора на матрицу
-double MatrixMultiplyVector(int[][] matrix, int[] vector)
+double CalculateLengthOfVector(int[][] matrix, int[] vector)
 {
     int[] newMatrix;
     int sum = 0;
@@ -83,7 +83,7 @@ if (IsSimetric(matrix) != true)
 } else if (matrix != null && vector!=null)
 {
     //Нахождение длины и вывод ответа
-    double ans = MatrixMultiplyVector(matrix, vector);
+    double ans = CalculateLengthOfVector(matrix, vector);
     Console.WriteLine("Answer: " + ans);
 }
 
