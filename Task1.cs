@@ -1,7 +1,11 @@
 //Создаем необходиые перемменные: путь к файлу, строку в которую будем считывать, размерность пр-ва
+using System.Numerics;
+
 string filePath = "D://Projects//Алгоритмы//05-09-2024//05-09-2024//data.txt";
 string? line;
 int n;
+int[][] matrix = null;
+int[] vector = null;
 
 //Метод для проверки на симетричность
 bool IsSimetric(int[][] matrix)
@@ -54,42 +58,16 @@ try
     n = Convert.ToInt32(sr.ReadLine());
     
     //Создаем матрицу пространства
-    int[][] matrix = new int[n][];
+    matrix = new int[n][];
     for (int i = 0; i < n; i++)
     {
         line = sr.ReadLine();
-        //проверка на пустую строку
-        if (line == null) {
-            Console.WriteLine("ERR");
-            break;
-        }
-
-        int[] a = line.Split(' ').Select(x=> Convert.ToInt32(x)).ToArray();
-        matrix[i] = a;
-    }
-
-    //Проверка на симетричность
-    if (IsSimetric(matrix) != true)
-    {
-        Console.WriteLine("not Sometric");
-        sr.Close();
-        return;
+        matrix[i] = line.Split(' ').Select(x=> Convert.ToInt32(x)).ToArray();
     }
 
     //Считывание вектора
     line = sr.ReadLine();
-    if (line == null)
-    {
-        Console.WriteLine("Err");
-        sr.Close();
-        return;
-    }
-    int[] vector = line.Split(" ").Select(x => Convert.ToInt32(x)).ToArray();
-
-
-    //Нахождение длины и вывод ответа
-    double ans = MatrixMultiplyVector(matrix, vector);
-    Console.WriteLine("Answer: " + ans);
+    vector = line.Split(" ").Select(x => Convert.ToInt32(x)).ToArray();
 
     //Закрытие файла
     sr.Close();
@@ -97,3 +75,16 @@ try
 {
     Console.WriteLine("Messege:" + e.Message);
 }
+
+//Проверка на симетричность
+if (IsSimetric(matrix) != true)
+{
+    Console.WriteLine("Matrix not Simetric");
+} else if (matrix != null && vector!=null)
+{
+    //Нахождение длины и вывод ответа
+    double ans = MatrixMultiplyVector(matrix, vector);
+    Console.WriteLine("Answer: " + ans);
+}
+
+
