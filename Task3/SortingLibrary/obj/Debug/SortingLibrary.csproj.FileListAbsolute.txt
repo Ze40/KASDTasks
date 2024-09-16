@@ -1,0 +1,6 @@
+D:\Projects\Алгоритмы\Task3\SortingLibrary\bin\Debug\SortingLibrary.dll
+D:\Projects\Алгоритмы\Task3\SortingLibrary\bin\Debug\SortingLibrary.pdb
+D:\Projects\Алгоритмы\Task3\SortingLibrary\obj\Debug\SortingLibrary.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task3\SortingLibrary\obj\Debug\SortingLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task3\SortingLibrary\obj\Debug\SortingLibrary.dll
+D:\Projects\Алгоритмы\Task3\SortingLibrary\obj\Debug\SortingLibrary.pdb

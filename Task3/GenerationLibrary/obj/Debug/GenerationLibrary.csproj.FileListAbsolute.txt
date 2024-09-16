@@ -1,0 +1,6 @@
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\bin\Debug\GenerationLibrary.dll
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\bin\Debug\GenerationLibrary.pdb
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\obj\Debug\GenerationLibrary.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\obj\Debug\GenerationLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\obj\Debug\GenerationLibrary.dll
+D:\Projects\Алгоритмы\Task3\GenerationLibrary\obj\Debug\GenerationLibrary.pdb
