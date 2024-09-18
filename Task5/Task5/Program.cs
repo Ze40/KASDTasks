@@ -25,27 +25,40 @@ namespace Task5
             while (line != null) 
             { 
                 bool isTag = true;
+                bool isOpen = false;
+                string tag = "";
 
-                if (line[0] != '<' || line[line.Length-1] != '>')
+                for (int i = 0; i<line.Length; i++)
                 {
-                    isTag = false;
-                    line = sr.ReadLine();
-                    continue;
-                }
-
-                for (int i = 1; i<line.Length - 1; i++)
-                {
-                    if (i == 1)
+                    if (line[i] == '<' && i+1 < line.Length)
                     {
-                        if (line[i] == '/') isTag = alphabet.Contains(line[i+1]);
-                        else isTag = alphabet.Contains(line[i]);
-                        continue;
+                        if (line[i+1] == '/' && i+2 < line.Length)
+                        {
+                            isOpen = true;
+                            isTag = alphabet.Contains(line[i+2]);
+                        } else if (line[i+1] == '/') isTag = false;
+                        else
+                        {
+                            isTag = alphabet.Contains(line[i + 1]);
+                            isOpen = true;
+                        }
+                    }
+                    if (line[i] == '>' && isOpen)
+                    {
+                        isOpen = false;
+                        tag += line[i];
+                    }
+                    else if (line[i] == '>')
+                    {
+                        isOpen = false;
+                        isTag = false;
                     }
                     if (isTag == false) break;
-                    isTag = alphabet.Contains(line[i]) || number.Contains(line[i]);
+                    if (line[i] != '<' && line[i] != '>' && line[i] != '/') isTag = alphabet.Contains(line[i]) || number.Contains(line[i]);
+                    if (isTag && isOpen) tag += line[i];
+                    if (isTag && !isOpen) tagList.Add(tag);
                 }
 
-                if (isTag) tagList.Add(line);
                 line = sr.ReadLine();
             }
             return tagList.ToArray();
