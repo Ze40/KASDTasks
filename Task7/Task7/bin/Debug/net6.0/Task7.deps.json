@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task7/1.0.0": {
+        "dependencies": {
+          "MyArrayListLib": "1.0.0"
+        },
+        "runtime": {
+          "Task7.dll": {}
+        }
+      },
+      "MyArrayListLib/1.0.0": {
+        "runtime": {
+          "MyArrayListLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyArrayListLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

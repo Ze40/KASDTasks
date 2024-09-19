@@ -1,0 +1,11 @@
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\bin\Debug\net6.0\MyArrayListLib.deps.json
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\bin\Debug\net6.0\MyArrayListLib.dll
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\bin\Debug\net6.0\MyArrayListLib.pdb
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.AssemblyInfoInputs.cache
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.AssemblyInfo.cs
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.dll
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\refint\MyArrayListLib.dll
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\MyArrayListLib.pdb
+D:\Projects\Алгоритмы\Task7\MyArrayListLib\obj\Debug\net6.0\ref\MyArrayListLib.dll
