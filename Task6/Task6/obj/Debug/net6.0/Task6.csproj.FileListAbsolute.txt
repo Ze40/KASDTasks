@@ -1,0 +1,14 @@
+D:\Projects\Алгоритмы\Task6\Task6\bin\Debug\net6.0\Task6.exe
+D:\Projects\Алгоритмы\Task6\Task6\bin\Debug\net6.0\Task6.deps.json
+D:\Projects\Алгоритмы\Task6\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+D:\Projects\Алгоритмы\Task6\Task6\bin\Debug\net6.0\Task6.dll
+D:\Projects\Алгоритмы\Task6\Task6\bin\Debug\net6.0\Task6.pdb
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.dll
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\refint\Task6.dll
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.pdb
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+D:\Projects\Алгоритмы\Task6\Task6\obj\Debug\net6.0\ref\Task6.dll
