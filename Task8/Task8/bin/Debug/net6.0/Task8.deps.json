@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task8/1.0.0": {
+        "dependencies": {
+          "MyLib": "1.0.0",
+          "Task6": "1.0.0.0"
+        },
+        "runtime": {
+          "Task8.dll": {}
+        }
+      },
+      "MyLib/1.0.0": {
+        "runtime": {
+          "MyLib.dll": {}
+        }
+      },
+      "Task6/1.0.0.0": {
+        "runtime": {
+          "Task6.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task6/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

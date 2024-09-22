@@ -1,0 +1,11 @@
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task8\MyVectorLib\bin\Debug\net6.0\MyLib.deps.json
+D:\Projects\Алгоритмы\Task8\MyVectorLib\bin\Debug\net6.0\MyLib.dll
+D:\Projects\Алгоритмы\Task8\MyVectorLib\bin\Debug\net6.0\MyLib.pdb
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.dll
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\refint\MyLib.dll
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\MyLib.pdb
+D:\Projects\Алгоритмы\Task8\MyVectorLib\obj\Debug\net6.0\ref\MyLib.dll

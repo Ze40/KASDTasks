@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyVectorLib\MyLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Task6">
+      <HintPath>..\..\Task6\Task6\bin\Debug\net6.0\Task6.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
