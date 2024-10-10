@@ -1,0 +1,10 @@
+D:\Projects\Алгоритмы\Task13\Task13\bin\Debug\Task13.exe.config
+D:\Projects\Алгоритмы\Task13\Task13\bin\Debug\Task13.exe
+D:\Projects\Алгоритмы\Task13\Task13\bin\Debug\Task13.pdb
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.Form1.resources
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.Properties.Resources.resources
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.csproj.GenerateResource.cache
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.exe
+D:\Projects\Алгоритмы\Task13\Task13\obj\Debug\Task13.pdb
