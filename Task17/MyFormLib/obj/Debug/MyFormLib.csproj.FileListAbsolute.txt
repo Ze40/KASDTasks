@@ -1,0 +1,6 @@
+D:\Projects\Алгоритмы\Task17\MyFormLib\bin\Debug\MyFormLib.dll
+D:\Projects\Алгоритмы\Task17\MyFormLib\bin\Debug\MyFormLib.pdb
+D:\Projects\Алгоритмы\Task17\MyFormLib\obj\Debug\MyFormLib.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task17\MyFormLib\obj\Debug\MyFormLib.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task17\MyFormLib\obj\Debug\MyFormLib.dll
+D:\Projects\Алгоритмы\Task17\MyFormLib\obj\Debug\MyFormLib.pdb
