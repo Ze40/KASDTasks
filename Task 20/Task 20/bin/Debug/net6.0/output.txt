@@ -1,0 +1,6 @@
+DOUBLE price = 199.99;
+FLOAT b = 3.14;
+FLOAT temperature = -20;
+DOUBLE c = -42;
+INT myVariable = 100;
+INT a = 5;

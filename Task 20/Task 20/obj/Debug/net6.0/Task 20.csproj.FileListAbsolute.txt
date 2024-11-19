@@ -1,0 +1,18 @@
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\Task 20.exe
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\Task 20.deps.json
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\Task 20.runtimeconfig.json
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\Task 20.dll
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\Task 20.pdb
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\MyLib.dll
+D:\Projects\Алгоритмы\Task 20\Task 20\bin\Debug\net6.0\MyLib.pdb
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.AssemblyInfoInputs.cache
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.AssemblyInfo.cs
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.csproj.CoreCompileInputs.cache
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.csproj.CopyComplete
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.dll
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\refint\Task 20.dll
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.pdb
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\Task 20.genruntimeconfig.cache
+D:\Projects\Алгоритмы\Task 20\Task 20\obj\Debug\net6.0\ref\Task 20.dll
