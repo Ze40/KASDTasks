@@ -1,0 +1,5 @@
+D:\Projects\Алгоритмы\Task9\MyLib\obj\Debug\net4.7.2\MyLib.csproj.AssemblyReference.cache
+D:\Projects\Алгоритмы\Task9\MyLib\obj\Debug\net4.7.2\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Алгоритмы\Task9\MyLib\obj\Debug\net4.7.2\MyLib.AssemblyInfoInputs.cache
+D:\Projects\Алгоритмы\Task9\MyLib\obj\Debug\net4.7.2\MyLib.AssemblyInfo.cs
+D:\Projects\Алгоритмы\Task9\MyLib\obj\Debug\net4.7.2\MyLib.csproj.CoreCompileInputs.cache
